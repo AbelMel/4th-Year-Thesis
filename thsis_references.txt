@@ -1,0 +1,45 @@
+[What is a cyber attack] https://www.techtarget.com/searchsecurity/definition/cyber-attack
+
+[What is Web Application Security] https://www.rapid7.com/fundamentals/web-application-security/
+
+[Importance of Web Application Security] https://www.digitaldefense.com/web-application-security/#:~:text=The%20biggest%20reason%20to%20enable,of%20backlash%20for%20an%20organization.
+
+[Web Application Security Methodology] https://brightsec.com/blog/web-application-security-testing-techniques-tools-and-methodology/
+
+[What is OWASP Top 10] https://www.f5.com/glossary/owasp
+
+[VAPT] https://www.veracode.com/security/vulnerability-assessment-and-penetration-testing
+
+[What is VMware] https://www.techopedia.com/definition/25690/vmware-workstation
+
+[What is Kali Linux] https://www.linkedin.com/pulse/what-kali-linux-brett-long/
+
+[Hydra Tool] https://www.techtarget.com/searchsecurity/tutorial/How-to-use-the-Hydra-password-cracking-tool
+
+[What is NMap] https://www.upguard.com/blog/how-to-use-nmap#:~:text=network%2C%20read%20on.-,What%20is%20Nmap%3F,its%20open%20ports%20and%20services.
+
+[What is HPing3] https://www.geeksforgeeks.org/hping3-command-in-linux/
+
+[What is snyk] https://snyk.io/
+
+[what is nikto] https://securitytrails.com/blog/nikto-website-vulnerability-scanner
+
+[what is a SIEM] https://eirevo.ie/blog/what-is-siem-and-how-does-it-work/
+
+[what is elasticsearch] https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html
+
+[what is elk stack] https://aws.amazon.com/what-is/elk-stack/#:~:text=The%20ELK%20stack%20is%20an,Elasticsearch%2C%20Logstash%2C%20and%20Kibana.
+
+[what is splunk] https://www.splunk.com/en_us/blog/learn/what-splunk-does.html
+
+[what is an IDS] https://www.ibm.com/topics/intrusion-detection-system
+
+[what is an IPS] https://www.vmware.com/topics/glossary/content/intrusion-prevention-system.html#:~:text=What%20is%20an%20intrusion%20prevention,it%2C%20when%20it%20does%20occur.
+
+[what is a firewall] https://www.kaspersky.com/resource-center/definitions/firewall
+
+[what is UFW] https://wiki.ubuntu.com/UncomplicatedFirewall
+
+[what is pfsnese] https://teklager.se/en/pfsense-introduction-open-source-router-firewall/
+
+[OWASP Github] https://github.com/OWASP/Vulnerable-Web-Application
